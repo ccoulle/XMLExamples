@@ -1,0 +1,19 @@
+<article>
+  <title>Simple XML</title>
+  <date>July. 11, 2012</date>
+  <author>
+    <FirstName>David</FirstName>
+    <LastName>Banner</LastName>
+  </author>
+  <author>
+    <FirstName>Iron</FirstName>
+    <LastName>Man</LastName>
+  </author>
+  <summary>XML is Easy!</summary>
+  <content>
+    XML is for managing information,
+    Not for displaying information!
+    The Avengers Superheros, Coming
+    to your town soon!
+  </content>
+</article>

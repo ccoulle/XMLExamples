@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<MovieDatabase>
+  <Movie>
+    <Title>The Lone Ranger</Title>
+    <Rating>27%</Rating>
+    <Actor>Johnny Depp</Actor>
+    <Actor>Armie Hammer</Actor>
+  </Movie>
+  <Movie>
+    <Title>White House Down</Title>
+    <Rating>48%</Rating>
+    <Actor>Channing Tatum</Actor>
+    <Actor>Maggie Gyllenhaal</Actor>
+    <Actor>Jason Clarke</Actor>
+  </Movie>
+</MovieDatabase>

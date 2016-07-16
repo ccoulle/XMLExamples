@@ -1,0 +1,26 @@
+<?xml version = "1.0"?>
+<?xmlLstylesheet type = "text/xsl"
+  href = "../XML/contact_list.xsl"?>
+<contacts>
+  <contact gender="male" occupation="idiot">
+    <LastName>House</LastName>
+    <FirstName>Gregory</FirstName>
+    </contact>
+  <contact>
+    <LastName>Cuddy</LastName>
+    <FirstName>Lisa</FirstName>
+    </contact>
+  <contact>
+    <LastName>Wilson</LastName>
+    <FirstName>James</FirstName>
+    </contact>
+  <contact>
+    <LastName>Foreman</LastName>
+    <FirstName>Eric</FirstName>
+    </contact>
+  <contact>
+    <LastName>Cameron</LastName>
+    <FirstName>Allison</FirstName>
+    </contact>
+  <contact name="Chase"/>
+</contacts>
